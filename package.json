@@ -1,0 +1,15 @@
+{
+  "name": "emotion-renovate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "11.4.1",
+    "@emotion/styled": "11.1.5"
+  }
+}
